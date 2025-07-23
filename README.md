@@ -17,10 +17,8 @@ This repository contains a project based on a Zomato case study.
 - Zomato-project.pptx: Project presentation slides
 - (Add other files as relevant)
 
-## How to Use
+## 🧑‍💻 Author
 
-Download the PowerPoint and review the analysis of Zomato's business.
-
-## License
-
-
+**Ayush Kumar**  
+B.Tech CSE | Data Analyst Enthusiast  
+[LinkedIn]( http://www.linkedin.com/in/ayush-kumar-4137 ) | [GitHub](https://github.com/your-profile)
