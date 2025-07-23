@@ -21,4 +21,4 @@ This repository contains a project based on a Zomato case study.
 
 **Ayush Kumar**  
 B.Tech CSE | Data Analyst Enthusiast  
-[LinkedIn]( http://www.linkedin.com/in/ayush-kumar-4137 ) | [GitHub]( https://github.com/settings/profile )
+[LinkedIn]( http://www.linkedin.com/in/ayush-kumar-4137 ) | [GitHub]( https://github.com/CodeWithXayush )
